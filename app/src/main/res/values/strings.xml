@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NfcApp</string>
+
+    <string name="sync_account_type">com.example.mayank.nfcapp.sync</string>
+    <string name="sync_content_authority_location">com.example.mayank.nfcapp.sync.locationsyncprovider</string>
+    <string name="sync_content_authority_bus_location">com.example.mayank.nfcapp.sync.buslocationsyncprovider</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="create_nfc_hint">Enter Nfc Id</string>
+</resources>
